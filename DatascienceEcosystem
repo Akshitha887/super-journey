@@ -1,0 +1,156 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "7d6bca1a-bfa1-4974-abe2-460c56e0aea2",
+   "metadata": {},
+   "source": [
+    "      Data science Tools and Ecosystem"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "303c3ca9-70e7-4b06-acfe-442af4447cbb",
+   "metadata": {},
+   "source": [
+    "some of the popular languages that Data Scientists uses are:\n",
+    "1. Python\n",
+    "2. R\n",
+    "3. SQL\n",
+    "4. C++\n",
+    "5. Java etc..;"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a8db51ca-e0df-48ae-b01a-089bcbc7f276",
+   "metadata": {},
+   "source": [
+    "some of the commonly used libraries used by data scientists are:\n",
+    "1. Tensorflow\n",
+    "2. Numpy\n",
+    "3. Scipy\n",
+    "4. Pandas\n",
+    "5. Matplotlib\n",
+    "6. Keras\n",
+    "7. Scikit-learn\n",
+    "8. python etc.."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "da72190e-611c-4662-9c00-7377354c2191",
+   "metadata": {},
+   "source": [
+    "| Data Science Tools|\n",
+    "|------------------|\n",
+    "|SAS|\n",
+    "|Apache Hadoop|\n",
+    "|Tensor flow|\n",
+    "|Apache spark|\n",
+    "|pandas|\n",
+    "|Excel|"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6bec6df8-f009-4216-9b63-21f5ccc3aa88",
+   "metadata": {},
+   "source": [
+    "### Below are a few examples of evaluating artihmetic expressions in python"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "812619d3-5e92-4e44-bec8-9302420e190c",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 2,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "(3*4)+5"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "76e1b098-a3e3-455c-a2c1-fe69d9f01bb3",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3.3333333333333335"
+      ]
+     },
+     "execution_count": 4,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "200/60\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6f42f367-816a-4278-b701-64d3d0d75512",
+   "metadata": {},
+   "source": [
+    "_objective_\n",
+    "* List popular languages for Data science \n",
+    "* List popular libraries for Data Science\n",
+    "* List of Well known Data  Science Tools\n",
+    "* How to Provide comments in the cell"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4aeb43d1-a4ca-4f9b-9a0a-f5ff55d73afb",
+   "metadata": {},
+   "source": [
+    "## Author\n",
+    "Akshitha Reddy"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "0edb0cf2-a545-4ece-9dbc-b6f5aa369b17",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
